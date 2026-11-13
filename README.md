@@ -1,5 +1,5 @@
 # **Project Type:** Personal Project
-# Telco Customer Churn Analysis
+# Telecom Customer Churn Analysis
 
 ## Project Overview
 

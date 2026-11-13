@@ -1,4 +1,4 @@
-# Data Cleaning Log – Telco Customer Churn
+# Data Cleaning Log – Telecom Customer Churn
 
 ## Dataset Overview
 

@@ -1,6 +1,6 @@
 
 
-# Business Insights – Telco Customer Churn Analysis
+# Business Insights – Telecom Customer Churn Analysis
 
 ## 1. Business Objective
 
