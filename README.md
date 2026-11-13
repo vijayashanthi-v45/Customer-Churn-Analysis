@@ -7,7 +7,7 @@ Why are customers leaving a telecom company, and which customers should the busi
 
 This project analyzes **7,043 customer records** to identify customer groups with higher churn rates and understand the patterns associated with customer loss.
 
-Using Python, MySQL, and Power BI, I cleaned the data, analyzed customer behavior, and developed an interactive dashboard to communicate the findings.
+Using Python, Pandas, Matplotlib, Seaborn, MySQL, and Power BI, I cleaned the data, analyzed customer behavior, and developed an interactive dashboard to communicate the findings.
 
 ## Business Problem
 
@@ -31,7 +31,7 @@ This was my personal project. I independently handled data preparation, explorat
 
 | Tool | Purpose |
 |---|---|
-| Python (Pandas, NumPy) | Data cleaning and analysis |
+| Python (Pandas) | Data cleaning and analysis |
 | Matplotlib, Seaborn | Data visualization |
 | MySQL | Customer churn analysis using SQL |
 | Power BI | Interactive dashboard |
