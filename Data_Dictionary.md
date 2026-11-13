@@ -1,4 +1,4 @@
-# Data Dictionary – Telecom Customer Churn
+# Data Dictionary – Telecom Customer Churn  Analysis
 
 This document describes the 21 columns in the customer churn dataset.
 
